@@ -18,3 +18,6 @@ To avoid rigid dependencies and "Spaghetti Code," the project utilizes a **Scrip
 * 3D objects (Organs) and the Canvas UI have **zero direct references** to each other.
 * When an organ is grabbed via the `XRGrabInteractable`, it fires data into an `OrganDefinitionEventChannelSO` or `QuizEventChannelSO`.
 * The UI components simply listen to these ScriptableObject channels and update themselves dynamically. This allows for limitless organs to be added to the game without ever needing to modify the core UI scripts.
+
+## Sample video: 
+https://drive.google.com/file/d/1DYBAZR3VQtKtrh_n5LHxdZUKWXnlY33g/view?usp=sharing
