@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d7b8b368ff98c74ab94b4d7cc2d76ee, type: 3}
+  m_Name: HeartSO
+  m_EditorClassIdentifier: Assembly-CSharp::OrganSO
+  Name: The Human Heart
+  Description: 'The human heart is a vital muscular organ that acts as the core pump
+    of the cardiovascular system. It continuously circulates blood, delivering essential
+    oxygen and nutrients to the body''s tissues while removing waste products like
+    carbon dioxide. To maintain this efficient one-way flow, the heart is divided
+    into four distinct chambers: two upper atria that receive blood, and two lower
+    ventricles that pump it back out.'

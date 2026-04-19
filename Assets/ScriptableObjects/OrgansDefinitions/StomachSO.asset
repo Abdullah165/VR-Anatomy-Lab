@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d7b8b368ff98c74ab94b4d7cc2d76ee, type: 3}
+  m_Name: StomachSO
+  m_EditorClassIdentifier: Assembly-CSharp::OrganSO
+  Name: The human stomach
+  Description: The human stomach is a muscular, J-shaped organ that acts as a central
+    hub for digestion. It secretes powerful enzymes and hydrochloric acid, churning
+    food into a liquid form before passing it to the small intestine for absorption.

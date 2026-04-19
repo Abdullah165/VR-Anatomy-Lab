@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d7b8b368ff98c74ab94b4d7cc2d76ee, type: 3}
+  m_Name: BrainSO
+  m_EditorClassIdentifier: Assembly-CSharp::OrganSO
+  Name: The Human Brain
+  Description: The human brain is the command center of the nervous system. It processes
+    sensory information, regulates vital body functions, and controls thought, memory,
+    and emotion. To handle these complex tasks, the brain is divided into two main
+    halves, known as the left and right hemispheres.

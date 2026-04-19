@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b7c9db8cf96a804390e05534d73e4df, type: 3}
+  m_Name: CheerAudioClipSO
+  m_EditorClassIdentifier: Assembly-CSharp::AudioClipSO
+  clip: {fileID: 8300000, guid: 8e6e758c979291944bd84af372206bd7, type: 3}
